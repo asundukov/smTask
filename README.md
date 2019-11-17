@@ -2,6 +2,10 @@
 
 ## Soft requirments:
 
+### Description
+
+Solution counts some statistics for first 1000 posts from test social network
+
 ### General
 
 * PHP 7.0+
@@ -14,6 +18,10 @@
 ### Endpoint
 
 * ./public/index.php
+
+### Configs
+
+* ./config/sm.php - configs for api client supermetrics social network.
 
 
 ## Example
