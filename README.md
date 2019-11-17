@@ -1,17 +1,15 @@
 # smTask
 
-## Soft requirments:
-
 ### Description
 
 Solution counts some statistics for first 1000 posts from test social network
 
-### General
+### General requirments
 
 * PHP 7.0+
 * php curl
 
-### Tests
+### Tests requirments
 
 * phpunit 6.0+
 
